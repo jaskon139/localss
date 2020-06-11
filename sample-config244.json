@@ -1,0 +1,8 @@
+{
+            "server":"192.168.1.244",
+                "server_port":2294,
+                    "local_port":18920,
+                        "password":"hellohello",
+                            "timeout":60,
+                                "method":"aes-256-cfb"
+}
