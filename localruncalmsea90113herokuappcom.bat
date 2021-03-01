@@ -1,4 +1,5 @@
-.\curl-7.67.0_5-win64-mingw\curl-7.67.0-win64-mingw\bin\curl https://calm-sea-90113.herokuapp.com
+rem .\curl-7.67.0_5-win64-mingw\curl-7.67.0-win64-mingw\bin\curl https://calm-sea-90113.herokuapp.com
+.\curl-7.67.0_5-win64-mingw\curl-7.67.0-win64-mingw\bin\curl https://white-mode-ed75.jaskon39.workers.dev/
 cd ztoclient
 start .\kptunserver 10.241.69.123
 cd ..
@@ -9,6 +10,7 @@ start .\shadowsocks-local.exe -c .\localsample-config19000.json
 echo jajaja
 choice /t 600 /d y /n >nul
 
-.\curl-7.67.0_5-win64-mingw\curl-7.67.0-win64-mingw\bin\curl https://calm-sea-90113.herokuapp.com
+rem .\curl-7.67.0_5-win64-mingw\curl-7.67.0-win64-mingw\bin\curl https://calm-sea-90113.herokuapp.com
+.\curl-7.67.0_5-win64-mingw\curl-7.67.0-win64-mingw\bin\curl https://white-mode-ed75.jaskon39.workers.dev/
 
 goto start
